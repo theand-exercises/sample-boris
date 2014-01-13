@@ -1,0 +1,7 @@
+{
+    "require": {
+        "d11wtq/boris": "1.*",
+        "fabpot/goutte": "dev-master",
+	"tobiassjosten/boris-loader": "dev-master"
+    }
+}
