@@ -2,6 +2,8 @@
     "require": {
         "d11wtq/boris": "1.*",
         "fabpot/goutte": "dev-master",
-	"tobiassjosten/boris-loader": "dev-master"
+	    "tobiassjosten/boris-loader": "dev-master",
+        "monolog/monolog": "dev-master",
+        "nesbot/Carbon": "dev-master"
     }
 }
